@@ -1,0 +1,1 @@
+$execute at @s anchored eyes run function wolf_upgrades:upgrade_bone/raycast {"hand":"$(hand)"}

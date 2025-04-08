@@ -1,0 +1,1 @@
+execute as @a if score @s wolf_upgrades.player.use.carrot_on_a_stick matches 1.. run function wolf_upgrades:player/use_carrot_on_a_stick

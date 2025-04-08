@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:carrot_on_a_stick",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:rarity": "epic",
+                "minecraft:custom_data": {
+                  "wolf_upgrades.upgrade_bone": true
+                },
+                "minecraft:item_model": "minecraft:bone",
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:custom_name": "{\"text\":\"Upgrade Bone\",\"italic\": false}",
+                "minecraft:lore": ["{\"text\":\"Use in a tamed wolf to upgrade it!\",\"italic\":false,\"color\":\"gray\"}"]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
