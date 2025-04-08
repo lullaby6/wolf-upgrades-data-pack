@@ -9,7 +9,7 @@
 [![Repo Size](https://img.shields.io/github/repo-size/lullaby6/wolf-upgrades-data-pack?logo=dropbox&color=red)](https://github.com/lullaby6/wolf-upgrades-data-pack)
 [![Stars](https://img.shields.io/github/stars/lullaby6/wolf-upgrades-data-pack?logo=github&color=yellow)](https://github.com/lullaby6/wolf-upgrades-data-pack/stargazers)
 
-Upgrade the healht, speed, attack damage and height of your wolfs!
+Upgrade the health, speed, attack damage and height of your wolfs!
 
 Only exist 5 levels and when a wolf reaches its maximum level (5) it gets infinite regeneration!
 
