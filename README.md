@@ -13,7 +13,7 @@ Upgrade the health, speed, attack damage and height of your wolfs!
 
 Only exist 5 levels and when a wolf reaches its maximum level (5) it gets infinite regeneration!
 
-Version: `1.21.4`
+Version: `1.21.5`
 
 ## 📂 Installation
 
